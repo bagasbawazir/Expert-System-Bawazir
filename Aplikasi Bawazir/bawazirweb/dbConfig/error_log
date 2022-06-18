@@ -1,0 +1,2 @@
+[28-Jun-2021 06:45:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/bawazir1/public_html/dbConfig/getLogin.php on line 6
+[28-Jun-2021 06:45:36 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/bawazir1/public_html/dbConfig/getLogin.php on line 7

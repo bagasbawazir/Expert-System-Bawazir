@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/bawazir1/api.bawazir.website"
+PassengerBaseURI "/"
+PassengerNodejs "/home/bawazir1/nodevenv/api.bawazir.website/12/bin/node"
+PassengerAppType node
+PassengerStartupFile app.js
+PassengerAppLogFile "/home/bawazir1/nodelog.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
